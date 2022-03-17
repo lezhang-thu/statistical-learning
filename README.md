@@ -9,7 +9,7 @@
 
 ## 其他说明
 
-> pip国内源，如[https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
+> pip国内源，如https://pypi.tuna.tsinghua.edu.cn/simple
 >
 > 用法，加-i https://pypi.tuna.tsinghua.edu.cn/simple
 >
