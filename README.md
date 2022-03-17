@@ -7,8 +7,8 @@
 1. pip install jupyter
 1. 安装jupyter-notebook的slides插件：pip install rise
 
-> pip国内源，如[https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)。
+> pip国内源，如[https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple)
 
-用法，加-i https://pypi.tuna.tsinghua.edu.cn/simple
+> 用法，加-i https://pypi.tuna.tsinghua.edu.cn/simple
 
-（具体参考：[https://mirrors.tuna.tsinghua.edu.cn/help/pypi/](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)）
+> （具体参考：[https://mirrors.tuna.tsinghua.edu.cn/help/pypi/](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)）
